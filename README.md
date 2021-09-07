@@ -1,6 +1,6 @@
 # Today, I successfully wrote a fundamental artificial neural network from scratch/memory, in about 1000 lines of java code, without Ai libraries, [as I have been doing for 2 years, approximately every 6 months](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE).
 
-# Everytime I do this, [I am reminded that this is a reasonably optimal example, of why I had changed my name to God, i.e. why humans are the only Gods responsible for solving our own problems.](https://www.researchgate.net/publication/352336263_Why_are_humans_the_only_Gods), and why I advise others to do so as well.
+# Everytime I do this, [I am reminded that this is a reasonably optimal example, of why I had changed my name to God, i.e. why humans are the only Gods responsible for solving our own problems](https://www.researchgate.net/publication/352336263_Why_are_humans_the_only_Gods), and why I advise others to do so as well.
 
 # The human brain is a remarkable engine, but sadly it had invented Gods prior to our invention of modern science :)
 
@@ -30,7 +30,7 @@ Simple artificial neural network written from memory/scratch by God in java.
   
   d) Input=(1,1) output should be 0
   
-  ![Alt text](https://github.com/JordanMicahBennett/NEURAL-NETWORK-SIMPLE-MARCH_21_2021/blob/main/Screenshot.png "default page")
+  ![Alt text](https://github.com/g0dEngineer/NEURAL_NETWORK_PRACTICE_2021_SEPTEMBER/blob/main/source_code/preview.png "default page")
   
 
  
