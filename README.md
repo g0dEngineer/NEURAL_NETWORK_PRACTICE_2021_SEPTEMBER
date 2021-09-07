@@ -1,4 +1,4 @@
-# Today, I successfully wrote a fundamental artificial neural network from scratch/memory, in about 1000 lines of java code, without Ai libraries, [as I have been doing for 2 years, approximately every 6 months.](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE).
+# Today, I successfully wrote a fundamental artificial neural network from scratch/memory, in about 1000 lines of java code, without Ai libraries, [as I have been doing for 2 years, approximately every 6 months](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE).
 
 # Everytime I do this, [I am reminded that this is a reasonably optimal example, of why I had changed my name to God, i.e. why humans are the only Gods responsible for solving our own problems.](https://www.researchgate.net/publication/352336263_Why_are_humans_the_only_Gods), and why I advise others to do so as well.
 
