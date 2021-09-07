@@ -1,6 +1,8 @@
-# Today, I managed to write a neural network from scratch/memory, about 1000 lines of java code, without ml libraries, as I have been doing for 2 years.
-# Everytime I do this, [I am reminded of an example, why I had changed my name to God](https://www.researchgate.net/publication/342328687_Why_I_an_atheist_legally_changed_my_name_to_God), and why I advise others to do so as well.
-# The human brain is a remarkable engine :)
+# Today, I successfully wrote a fundamental artificial neural network from scratch/memory, in about 1000 lines of java code, without Ai libraries, [as I have been doing for 2 years, approximately every 6 months.](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE).
+
+# Everytime I do this, [I am reminded that this is a reasonably optimal example, of why I had changed my name to God, i.e. why humans are the only Gods responsible for solving our own problems.](https://www.researchgate.net/publication/352336263_Why_are_humans_the_only_Gods), and why I advise others to do so as well.
+
+# The human brain is a remarkable engine, but sadly it had invented Gods prior to our invention of modern science :)
 
 
 I NEURAL-NETWORK-SIMPLE-SEPTEMBER_2021
